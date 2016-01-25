@@ -1,0 +1,29 @@
+{
+  "name": "poly-frame",
+  "version": "0.0.1",
+  "authors": [
+    "Reinier Brummelkamp <reinier.brummelkamp@gmail.com>"
+  ],
+  "description": "A container element to providing consistent UI and utility funtions.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "poly-frame"
+  ],
+  "main": "poly-frame.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/reinier-brummelkamp/poly-frame/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
