@@ -1,5 +1,5 @@
 {
-  "name": "poly-frame",
+  "name": "poly-brick",
   "version": "0.0.1",
   "authors": [
     "Reinier Brummelkamp <reinier.brummelkamp@gmail.com>"
@@ -9,15 +9,12 @@
     "web-component",
     "web-components",
     "polymer",
-    "poly-frame"
+    "poly-brick"
   ],
-  "main": "poly-frame.html",
+  "main": "poly-brick.html",
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/reinier-brummelkamp/poly-frame/",
   "ignore": [
-    "/.*",
-    "/test/",
-    "/demo/"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0"
